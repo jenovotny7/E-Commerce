@@ -1,0 +1,9 @@
+mysql -u root -p
+source db/schema.sql
+Npm run start
+Npm run seed
+
+
+
+
+
