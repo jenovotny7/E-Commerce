@@ -49,7 +49,7 @@ Part 2.  Get Route Criteria in Insomnia
 https://drive.google.com/file/d/1btAETkA0bUyu8mDnecyiezwQPpQ6sV0D/view
 
 
-Part 3. PUT, POST, AND DELTE Route Criteria in Insomnia
+Part 3. PUT, POST, AND DELETE Route Criteria in Insomnia
 https://drive.google.com/file/d/1AndLb4oPylab4FD1GezNoGjnpfoX_AnR/view
 
 
